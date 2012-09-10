@@ -1,0 +1,4 @@
+RabbitMQ
+========
+
+Tests with RabbitMQ
